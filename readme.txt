@@ -1,2 +1,2 @@
-Git is a ni ma de bi
-Git is free 
+Git is free network
+Git is free software under the GPL hah
